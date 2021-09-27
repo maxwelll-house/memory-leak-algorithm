@@ -17,6 +17,4 @@ As a final result - set of a leaked objects shown in such way:
 
 Dumping Leaked Objects
 
------------------------------------------------------------------------------------------------------|
-2   ptr = bd1780     | next = bd1750     | units = 1    | struct_name = unit_t     | is_root = FALSE |
------------------------------------------------------------------------------------------------------|
+2   ptr = bd1780 | next = bd1750| units = 1| struct_name = unit_t| is_root = FALSE |
