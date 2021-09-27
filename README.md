@@ -1,10 +1,13 @@
 For compilation you need to run these lines in terminal
 
 gcc -g -c memory_leak_algorithm.c -o memory_leak_algorithm.o
+
 gcc -g -c application.c -o application.o
+
 gcc -g -o exe memory_leak_algorithm.o application.o
 
 Run and see result:
+
 ./exe
 
 The program will report and show the leaked objects in the database.
